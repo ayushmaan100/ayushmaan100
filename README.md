@@ -14,11 +14,11 @@
 
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=64748B&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Ayushmaan + Full Stack Developer and Competitive Programmer; " alt="Typing SVG"/>
-</div>
 
-**Full Stack Developer and Competitive Programmer.**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=64748B&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Ayushmaan;Full+Stack+Developer+and+Competitive+Programmer" alt="Typing SVG"/>
+</div>
+<!-- **Full Stack Developer and Competitive Programmer.** -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/devraj-kumar-5191ba250/](https://www.linkedin.com/in/ayushmaan-tiwari-61126916b/)) 
 [![Profile Views](https://komarev.com/ghpvc/?username=ayushmaan100&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ayushmaan100)
